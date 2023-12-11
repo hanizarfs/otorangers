@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>77905712753-vlj8lobk4g29h78chfdja08rjh5p82dv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.77905712753-vlj8lobk4g29h78chfdja08rjh5p82dv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>77905712753-jjnsktnuq5subuf35vk8ai590dthpnvc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB905vO3BM3mNmciY9u7609aDMLUSye_QU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>77905712753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.otoranger</string>
+	<key>PROJECT_ID</key>
+	<string>amikom-dss</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amikom-dss.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:77905712753:ios:595f1fff3db2be7f47add0</string>
+	<key>DATABASE_URL</key>
+	<string>https://amikom-dss-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

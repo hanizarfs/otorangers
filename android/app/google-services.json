@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77905712753",
+    "firebase_url": "https://amikom-dss-default-rtdb.firebaseio.com",
+    "project_id": "amikom-dss",
+    "storage_bucket": "amikom-dss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77905712753:android:24ce38bf326fa68447add0",
+        "android_client_info": {
+          "package_name": "com.example.otoranger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77905712753-p3vrgtk9um23c51gjms48ma93m6qbo6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppPDMFfJVzbYaspkPADlG_tWaGurynEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77905712753-50ibj7tvmgum1sl2e0i7hq3svm0qldok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
